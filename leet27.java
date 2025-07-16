@@ -1,4 +1,4 @@
-package leet;
+
 
 public class leet27{
     public int removeElement(int[] nums, int val) {
